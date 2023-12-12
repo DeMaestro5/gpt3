@@ -5,10 +5,10 @@ import logo from '../../assets/logo.svg'
 
 const Menu = () => (
   <><p><a href='#'>Home</a></p>
-          <p><a href='whatGPT3'>What is GPT?</a></p>
-          <p><a href='possibilities'>Open AI</a></p>
-          <p><a href='features'>Case Studies</a></p>
-          <p><a href='blog'>Library</a></p>
+          <p><a href='#wgpt3'>What is GPT?</a></p>
+          <p><a href='#possibilities'>Open AI</a></p>
+          <p><a href='#features'>Case Studies</a></p>
+          <p><a href='#blog'>Library</a></p>
           </>
 )
   
