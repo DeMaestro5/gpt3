@@ -79,3 +79,9 @@ color: #81AFDD;
         height: 400px;
     }
 }
+@media  screen and (max-width: 480px) {
+    .gpt3__possibility-image img {
+        width: 400px;
+        height: 400px;
+    }
+}
